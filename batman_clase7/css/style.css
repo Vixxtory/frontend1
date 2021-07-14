@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    background-color: aquamarine;
+    text-align: center;
+}
+h1,h2{
+    background-color:thistle;
+    text-align: center;
+}
+footer{
+    background-color: teal;
+    text-align: center;
+    margin-top: 4em;
+}
+ul,h2{
+    margin-top: 1em;
+    text-align: center;
+}
+li{
+    text-align: center;
+}
