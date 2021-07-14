@@ -3,11 +3,11 @@
     padding:0;
 }
 header{
-    background-color: aquamarine;
+    background-color:rebeccapurple;
     text-align: center;
 }
 h1,h2{
-    background-color:thistle;
+    background-color:lightgray;
     text-align: center;
 }
 footer{
@@ -22,3 +22,6 @@ ul,h2{
 li{
     text-align: center;
 }
+img.imagenPersonal{
+    width: 200px; height: 200px;
+  }

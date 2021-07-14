@@ -1,0 +1,13 @@
+Subir las url de los trabajos aca
+https://docs.google.com/spreadsheets/d/1LefSOyvQqvaJ5ah2cDRQ2_igrsYcU-65Xg_jBdytWaE/edit#gid=0
+
+https://caniuse.com/?search=section
+
+12-07. Clase 7. S
+https://www.figma.com/file/VfoIoqXwXUo5Gddw9h5M5I/Clase-07-Intro-a-CSS?node-id=102%3A2 <- modelo de pagina a seguir
+
+14-07. Clase 8. S
+cdnjs.com <- pagina para iconos
+https://tablericons.com <- pagina para iconos 
+https://coolors.co <- pagina para colores
+https://drive.google.com/file/d/1mQ2cCEPcBydYp9J8Gd6UtR8oZtujFIX2/view <- actividad Momento de Maquetado
